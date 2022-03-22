@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>plot_lib_example</name>
+  <version>0.0.0</version>
+  <description>plot_lib_example</description>
+
+  <maintainer email="antosidi646@gmail.com">Antonis Sidiropoulos</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>plot_lib</build_depend>
+  <run_depend>plot_lib</run_depend>
+
+  <export></export>
+</package>
